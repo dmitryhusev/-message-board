@@ -7,3 +7,5 @@ class HomePageView(ListView):
     template_name = "home.html"
 
 #1
+
+#2
