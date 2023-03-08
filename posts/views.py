@@ -7,3 +7,5 @@ class HomePageView(ListView):
     template_name = "home.html"
 
 # first bad commit
+
+# second bad commit
